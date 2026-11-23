@@ -289,6 +289,7 @@ These platforms, including Toolimi, house dozens of utilities under one roof.
 - [TinyPNG](https://tinypng.com/) – Smart PNG/JPEG compression.
 - [Photopea](https://www.photopea.com/) – Free Photoshop alternative in browser.
 - [Smallpdf](https://smallpdf.com/) – Another PDF converter.
+- [PDF Fan – Converter imagem em PDF](https://pdf.fan/pt-br/imagem-para-pdf/) – Brazilian Portuguese tool for ordering JPG and PNG images and combining them into a PDF without an account.
 - [Canva](https://www.canva.com/) – Graphic design with templates.
 - [Squoosh](https://squoosh.app/) – Google’s image compression playground.
 - [JSONLint](https://jsonlint.com/) – JSON validator.
